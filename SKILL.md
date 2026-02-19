@@ -4,7 +4,8 @@ description: Understand and analyze how self-funding entities are structured to 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4766
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - public-authority-design
 - writing
